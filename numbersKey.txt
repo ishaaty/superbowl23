@@ -1,0 +1,42 @@
+COLORS
+red - 1
+orange - 2
+yellow - 3
+green - 4
+blue - 5
+purple - 6
+clear - 7
+none - 0
+
+TEAMS
+eagles - 1
+chiefs - 2
+49ers - 3
+packers - 4
+broncos - 6
+patriots - 7
+bengals - 8
+raiders - 9
+vikings - 10
+bears - 11
+bills - 12
+buccaneers - 13
+dolphins - 14
+seahawks - 15
+cardinals - 16
+ravens - 17
+lions - 18
+saints - 19
+commanders - 20
+colts - 21
+texans - 22
+jets - 23
+panthers - 24
+rams - 25
+chargers - 26
+browns - 27
+titans - 28
+falcons - 29
+jaguars - 30
+cowboys - 31
+steelers - 32
